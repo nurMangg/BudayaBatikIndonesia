@@ -1,0 +1,9 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.card {
+  border: none;
+  font-style: normal;
+  text-align: justify;
+}
